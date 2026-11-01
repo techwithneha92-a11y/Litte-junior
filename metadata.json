@@ -1,0 +1,6 @@
+{
+  "name": "Little Genius",
+  "description": "Smart kids educational learning app for preschool and primary children with alphabet, numbers, maths, and general knowledge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
